@@ -12,5 +12,7 @@ public class Java06 {
 		}
 		
 		System.out.println(sum);
+
+
 	}
 }
